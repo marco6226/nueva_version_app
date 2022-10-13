@@ -1,0 +1,1 @@
+aca se subira la nueva version de la app actualizando angular y ionic
